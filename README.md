@@ -42,4 +42,4 @@ The modularized and generic approach used in this application ensures scalabilit
 
 ---
 
-Feel free to explore the code and reach out if you have any questions or feedback. This repository aims to showcase not only technical expertise but also a thoughtful design process for solving real-world problems.
+This repository aims to showcase not only technical expertise but also a thoughtful design process for solving real-world problems.
