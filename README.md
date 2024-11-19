@@ -4,7 +4,7 @@ This repository contains a portion of the codebase for an **Progeren Application
 
 ## **About the Application**
 The application is structured to support various functionalities such as:
-- Recording energy, water, and other utility data across multiple facilities.
+- Recording energy, water, and other  data across university facilities.
 - Managing sections and findings with real-time updates.
 - Allowing users to navigate through lists of data (via RecyclerView) and edit detailed records on dedicated screens.
 - Exporting audit results to Excel and synchronizing data with cloud storage.
@@ -18,7 +18,7 @@ This repository specifically showcases the implementation of the **data layer** 
    - Simplifies dependency management for Room, Hilt, and other libraries.
 
 2. **Database Design**:
-   - Uses **Room Database** with a well-structured schema for various entities such as `Lighting`, `Climate Equipment`, and `Findings`.
+   - Uses **Room Database** with a well-structured schema for various entities such as `Lighting`, `Climate Equipment`, among others.
    - Integrates `@TypeConverters` for handling custom data types like complex models or lists.
 
 3. **Repository Architecture**:
